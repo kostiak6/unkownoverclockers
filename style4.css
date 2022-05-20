@@ -9,6 +9,7 @@ body {
     background-image: url("img/logo.jpg");
     background-repeat: no-repeat;
     background-position: top center;
+
 }
 
 .container {
@@ -49,7 +50,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #ffffff;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -119,6 +120,7 @@ body {
   font-size: 28px;
   line-height: 40px;
   font-weight: 500;
+margin-left:40%;
 }
 
 .intro p {
@@ -186,13 +188,16 @@ body {
 
 .button {
   padding: 6px 20px;
-  display: inline-block;
-  vertical-align: baseline;
-  text-decoration: none;
-  text-transform: uppercase;
-  border-radius: 4px;
-  background-color: #288be6;
-  color: #ffffff;
+    display: inline-block;
+    vertical-align: baseline;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 40px;
+    border-color: black;
+    background-color: #4682B4;
+    color: #dcdcdc;
+    font-family: 'Titillium Web', sans-serif;
+    text-color: #FFFFFF	
 }
 
 .page-footer {
